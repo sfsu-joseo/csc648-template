@@ -1,4 +1,4 @@
-# csc648-su19-Team04
+# Welcome to your CSC648-848-04 Team Repository
 
 ## Please when ready add your teams application URL or IP to the repository description. This will help with grading. Teams are expected to keep this value up to date.
 
@@ -9,7 +9,9 @@
 
 2. Add ALL members of your team to this repository. For it to count, they must ACCEPT the invite.
 
-3. Create all the needed repository branches. As mandatory branches, you should have Master, Development and Testing branches in your repository. You can add more branches if you need them. The code in the Master branch must be all working code that passed all the tests. 
+3. Refactor this README file to become a profesional document for your application. Some info that it must have to get you started is the name of your application (this can be decided during M0), and additionally, the name, email (SFSU email), and role of each member of the team (this must be done after you create the repo). 
+
+4. Create all the needed repository branches. As mandatory branches, you should have Master, Development and Testing branches in your repository. You can add more branches if you need them. The code in the Master branch must be all working code that passed all the tests. 
 
 ## Your code should be "self-documenting" (self explanatory code). In addition, code that performs complicated algorithms should include the appropiate comments. 
 
