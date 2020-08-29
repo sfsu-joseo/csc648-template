@@ -11,7 +11,7 @@
 
 3. Create all the needed repository branches. As mandatory branches, you should have Master, Development and Testing branches in your repository. You can add more branches if you need them. The code in the Master branch must be all working code that passed all the tests. 
 
-## Your code should should be "self-documenting" (self explanatory code). In addition, code that performs complicated algorithms should include the appropiate comments. 
+## Your code should be "self-documenting" (self explanatory code). In addition, code that performs complicated algorithms should include the appropiate comments. 
 
 ## Do not push code with bugs or with failed tests to the Master branch!!!. There are a few checking points during the semester where I check your Master branch to make sure that you only have working code there. 
 
