@@ -1,1 +1,1 @@
-## All the material related to milestone 0 goes in this folder
+## All the material related to M0 must be uploaded to this folder
